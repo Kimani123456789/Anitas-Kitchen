@@ -79,3 +79,30 @@ background-color: white;
   margin: 150px;
   
 }
+.drinks{
+  
+  float: left;
+  margin: 250px;
+  text-align: left;
+  padding: 200px;
+  width: 200px;
+  margin: 400px;
+
+}
+.table2{
+
+  float: right;
+  clear: both;
+  width: 200px;
+  border: 2px;
+  padding: 10px;
+  margin: 0px 200px;
+  box-shadow: 0px 0px 5px rgb(212, 210, 210 );
+}
+.table3{
+  background-image: url(images/foodsBg.jpg);
+  
+}
+.styletb{
+  
+}
