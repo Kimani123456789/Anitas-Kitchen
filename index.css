@@ -1,4 +1,4 @@
-}
+
 .container {
     display: inline-block;
     cursor: pointer;
@@ -32,9 +32,8 @@
     background-repeat: no-repeat;
     overflow: auto;
   }
-  table{
-      width: 100%;
-  }
+ 
+  
   #header{
       text-align: center;
       font-size: 50px;
@@ -62,4 +61,21 @@ background-color: white;
 }
 #head5{
     background-color: #F15A29;
+}
+
+
+#fastfood{
+    display: flexbox;
+    float: left;
+    clear: both;
+    width: 488px;
+    height: 390px;
+    border: 3px solid #ccc;
+    background: #eee;
+    margin: 150px;
+    padding: 15px 15px;
+}
+#text{
+  margin: 150px;
+  
 }
